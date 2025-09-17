@@ -142,7 +142,7 @@ const Index = () => {
               <p className="text-sm text-muted-foreground">Last updated: 5 mins ago</p>
             </div>
             <Badge variant="secondary" className="bg-success text-success-foreground">
-              Live
+              live
             </Badge>
           </div>
         </Card>
